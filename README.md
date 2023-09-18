@@ -1,5 +1,7 @@
 # Client
 ---
+# [코드 리뷰 방법](https://mine-it-record.tistory.com/692)
+---
 # [커밋 컨벤션](https://overcome-the-limits.tistory.com/6)
 ### 기능  
 Feat: 새로운 기능을 추가할 경우  
